@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./styles/styles.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const header = {
